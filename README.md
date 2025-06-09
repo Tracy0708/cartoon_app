@@ -1,16 +1,22 @@
-# cartoon_app
+# Cartoon App
 
-A new Flutter project.
+Welcome to the **Cartoon App**! This is a fun and interactive application designed to bring cartoons to life. Users can browse, view, and interact with their favorite cartoon characters in a dynamic and engaging environment.
 
-## Getting Started
+## Features
+- Browse a wide selection of cartoons
+- Interactive character profiles
+- Stunning visuals and animations
+- User-friendly interface
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js (if applicable)
+- **Database**: MongoDB (if applicable)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+To get started with the **Cartoon App**, clone the repository and install the dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Tracy0708/cartoon_app.git
+cd cartoon_app
+npm install
